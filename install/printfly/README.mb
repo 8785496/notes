@@ -1,0 +1,3 @@
+replace ROW_FORMAT=FIXED to ''
+
+crypt
