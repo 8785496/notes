@@ -1,5 +1,5 @@
-# Install x-debugger in VS Code
-
+Install x-debugger in VS Code
+=============================
 Windows
 1) > php -i > phpinfo.txt
 2) insert text from file phpinfo.txt into form https://xdebug.org/wizard.php 
