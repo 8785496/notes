@@ -1,2 +1,6 @@
-# laravel
+Laravel/lumen
+=============
 
+Requirements
+1) mongodb driver
+for wondows http://php.net/manual/ru/mongodb.installation.windows.php
